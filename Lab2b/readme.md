@@ -13,12 +13,12 @@ Summarize this assignment and the goal of this lab
 * Explain what is meant by a truth table and apply your knowledge to a NAND gate.  
   * A truth table is a table used to show logic gates and what math they're based on. 
   For example: this is an AND table
-  |A|B|Output|
-  |-|-|------|
-  |0|0|0|
-  |0|1|0|
-  |1|0|0|
-  |1|1|1|
+  | A | B | Output |
+  | - | - | ------ |
+  | 0 | 0 | 0 |
+  | 0 | 1 | 0 |
+  | 1 | 0 | 0 |
+  | 1 | 1 | 1 |
   
 * How does the NAND gate truth table compare to that of an AND gate? 
   * The AND gate returns true when both conditions are met, the NAND gate returns true when both conditions are NOT met. 
