@@ -28,7 +28,7 @@ Summarize this assignment and the goal of this lab
 
 ## IEEE - Ethically Aligned Design
 * Explain the purpose of IEEE and the importance of ethics in device design
- * It is an organization that promotes technology for the benefit of humanity itself.
+  * It is an organization that promotes technology for the benefit of humanity itself.
  I think ethics in business/engineering, especially when it comes to IT are extremely important
 
 # Conclusion
