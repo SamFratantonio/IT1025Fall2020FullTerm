@@ -28,7 +28,10 @@ The goal of this lab is to gain a better understanding of logic gates and apply 
 ## IEEE - Ethically Aligned Design
 * Explain the purpose of IEEE and the importance of ethics in device design
   * It is an organization that promotes technology for the benefit of humanity itself.
- I think ethics in business/engineering, especially when it comes to IT are extremely important
+  This is extremely important because of the way technology is taking over the way we do things in modern society.
+  Technology should be created for the purpose of people using it and not to simply advance the interests of one 
+  company or group of people.
 
 # Conclusion
 Explain what you learnt from this lab
+I learned about hex color codes and how they work. Also what logic gates are and how to apply them to programming.  
