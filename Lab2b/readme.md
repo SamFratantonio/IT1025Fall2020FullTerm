@@ -1,6 +1,5 @@
 # Executive Summary
-Summarize this assignment and the goal of this lab
-
+The goal of this lab is to gain a better understanding of logic gates and apply them to programming. Also to better understand hexadecimal, specifically the hex color codes.
 ## Hexadecimal color representation
 * Explain the representation: #ab00ff using the site: https://www.colorhexa.com/ 
   * Computers can technically only produce light that is red, green and blue. The hex color codes work by dividing the number into three parts, 
