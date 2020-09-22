@@ -2,6 +2,9 @@
 
 # Software 
 * Explain the roles of application, utility and operating system software. Give an example of each. 
+    * Utility software is software that interacts directly with the operating system itself and is used to maintain and use the computer
+    * Application software is any other software you would use, the whole purpose of a computer, ex: browsers, games, IDEs, media players, etc.
+    * The operating system is the "backbone" of the computer, it is the platform that everything on it runs on and is what makes the hardware actually work.
 
 * Explain the purpose of ERP software and provide an example. 
 
