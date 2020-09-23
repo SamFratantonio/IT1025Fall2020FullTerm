@@ -7,7 +7,7 @@
     * The operating system is the "backbone" of the computer, it is the platform that everything on it runs on and is what makes the hardware actually work.
 
 * Explain the purpose of ERP software and provide an example. 
-
+ERP stands for enterprise resource planning. ERP software is used to help businesses run more efficiently and effectively. Examples of ERP software include POS and Microsoft Dynamics.
 
 # Virtualization
 
@@ -16,6 +16,8 @@ https://www.redhat.com/en/topics/virtualization/what-is-virtualization
 
 * In addition to the chapter use the following resource:  https://www.vmware.com/solutions/virtualization.html#how-it-works
 and explain the purpose of virtualization. 
+Virtualization refers to creating a virtual enviornment that mimics an operating system rather than an actual machine. 
+This is useful to have to systems that are completely independent of each other for security reasons, it's also much cheaper. 
 
 #### Explain the following: 
 * What types of problems are solved with virtualization? 
