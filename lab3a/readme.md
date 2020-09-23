@@ -1,4 +1,5 @@
 # Executive Summary
+The goal of this lab is to further understand the different classes of software and how software architecture works.
 
 # Software 
 * Explain the roles of application, utility and operating system software. Give an example of each. 
@@ -35,3 +36,4 @@ This is useful to have to systems that are completely independent of each other 
    * It's very doable because with virtualization half the infrastructure is already there, you'd just need to add things like databases and maybe a user portal via a website, depending on what it's for.
  
 # Conclusion
+In this lab I learned what virtualization and cloud computing are and how they are different in spite of their similarities. 
