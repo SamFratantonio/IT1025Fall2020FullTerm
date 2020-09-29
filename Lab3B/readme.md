@@ -19,6 +19,7 @@ Employment of software developers is supposed to grow 22% in the next ten years,
 
 ## Industry Certification
 * Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
+
 When I was in high school I went to CVCC part time and we actually did the Cisco certification tests as part of the class. 
 So I think I'll continue with that.
 
