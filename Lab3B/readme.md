@@ -1,4 +1,5 @@
 # Executive Summary
+The purpose of this lab to start thinking about your career in computer science, such as what job you might want, what certifications to get, what organizaitons to join, etc.
 
 # Career Exploration
 ## Career Exploration
@@ -23,10 +24,15 @@ Employment of software developers is supposed to grow 22% in the next ten years,
 
 ## College Certificates
 * Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
+I'm currently going for the associate's degree in programming and development, I think it'll be a good start in becoming a software developer.
+
 * Explain what you need to do to become co-op "ready" and the benefits of pursuing a co-op or internship
+You must have completed 12 credit hours and two of the courses must be related to your major, and your GPA must be at least 2.75
 
 ## Professional Membership
 * Pick one of the IT organizations like IEEE or ACM or a student club and report the purpose of the organization and why membership would be beneficial.
+ * I would join IEEE because not only are they one of the largest of the groups but their mission statement and purpose is something I have been passionate about
+ for a while now. I strongly believe technology should exist for the benefit of humanity as a whole and that ethics must come first.
 
 # Conclusion
-Summary of your understanding from this week's lab
+I learned about the different degrees and certificates offered by tri c as well as the different professional organizations relating to computer science.
