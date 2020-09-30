@@ -19,9 +19,7 @@ Employment of software developers is supposed to grow 22% in the next ten years,
 
 ## Industry Certification
 * Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
-
-When I was in high school I went to CVCC part time and we actually did the Cisco certification tests as part of the class. 
-So I think I'll continue with that.
+  * If I were to try to get one of these I would get the CISSP certification because as a software developer it would be beneficial to have some understanding of cyber security,   especially if you're working on applications people will use. That way you can know what to avoid and be more aware of possible vulnerabilities.
 
 ## College Certificates
 * Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
