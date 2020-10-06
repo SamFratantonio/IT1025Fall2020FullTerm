@@ -1,9 +1,14 @@
 # Executive Summary
-Update this section for this lab explaining the purpose of the lab
+The purpose of this lab is to learn about computer graphics. Specifically the different types of images and image compression, as well as the basics of windows command line.
 
 # Graphics
 ## Raster vs. Vector Graphics
 * Explain the difference between a raster and vector image.  
+ * Raster images are made up of pixels and vector images are made up of paths that are worked out mathematically. 
+ Technically, all images are displayed using pixels, but the pixels in a raster image are much larger than the basic ones that make up your screen. 
+ In general, vector images take up much less memory. On a vector image you can zoom in and the quality doesn't detiorate because the pixels used to represent it are relative. 
+ With raster images it's the opposite, when you zoom in the quality is worse.
+ 
 * Include examples of when each would be most appropriate 
 
 ## Lossless vs. Lossy Compression
