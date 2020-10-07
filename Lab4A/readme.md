@@ -14,6 +14,7 @@ The purpose of this lab is to learn about computer graphics. Specifically the di
 
 ## Lossless vs. Lossy Compression
 * Why does it matter to developers whether they use lossless or lossy image formats?  
+ 
 
 ## File Formats
 * Explain the similarities and differences between jpg, gif and png files. 
