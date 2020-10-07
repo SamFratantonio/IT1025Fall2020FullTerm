@@ -14,6 +14,7 @@ The purpose of this lab is to learn about computer graphics. Specifically the di
 
 ## Lossless vs. Lossy Compression
 * Why does it matter to developers whether they use lossless or lossy image formats?  
+  * If an image is going to be compressed and then unzipped repeatedly, it makes sense to use lossless compression so it can retain its quality, if it's a large image only being compressed once, lossy may be acceptable.
  
 
 ## File Formats
