@@ -19,6 +19,10 @@ The purpose of this lab is to learn about computer graphics. Specifically the di
 
 ## File Formats
 * Explain the similarities and differences between jpg, gif and png files. 
+ * The difference between JPG and PNG is that PNG uses lossless compression and JPG uses lossy compression. GIF files are essentially the older version of PNG files. 
+ PNGs are best for photos with high contrast, illustrations, things that need a transparent background. 
+ JPEGs are best for larger photographs that need to be compressed because the file size is too large. 
+ GIFs are primarily used for animations. 
 
 # Operating Systems
 Upload screenshots for Operating System tasks to github
