@@ -10,6 +10,7 @@ The purpose of this lab is to learn about computer graphics. Specifically the di
  With raster images it's the opposite, when you zoom in the quality is worse.
  
 * Include examples of when each would be most appropriate 
+  * A raster image would make sense for normal pictures like photos you take on your phone or screenshots. Vectors are typically used with clipart and are basic, transparent images used as components of a larger graphic design.
 
 ## Lossless vs. Lossy Compression
 * Why does it matter to developers whether they use lossless or lossy image formats?  
