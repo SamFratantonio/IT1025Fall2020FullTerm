@@ -30,7 +30,11 @@ Upload screenshots for Operating System tasks to github
 ## Logo
 * Upload your logo image that you created from the Graphics Tasks
 * Explain your image design including how many "layers" were required
+  * The image is a clipart of a pizza with a banner over the lower portion that reads "Sam's Pizza Shop"
+  There are 4 layers in the image. The dough of the pizza, the pizza itself, the banner and the text.
 * Right-click on your svg image file, select "properties" and report the file size and what application it "opens with." What application might be more appropriate and why (click the "change" button for options)
+  * The file size is 242 KB, the default application is google chrome. While google chrome works fine, a better application might be VLC media player.
  
 # Conclusion
-Summarize what you learned here
+I learned about different image types and what makes them different, specifically the different types of compression each one has. 
+I also learned the basics of command prompt
