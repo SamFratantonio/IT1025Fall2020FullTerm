@@ -20,11 +20,11 @@ Data Transmission
 Match the following words with their definitions 
 
 Words:
-* Packet
-* Packet-Switching
-* IP Address
-* DNS
-* Protocol
+* Packet - Unit of data
+* Packet-Switching - Technology that allows packets of data to be routed based on destination address
+* IP Address - Unique identifying number
+* DNS - Directory of IP address common names.
+* Protocol - Set of rules to allow devices to communicate
 
 Definitions to match:
 * Set of rules to allow devices to communicate
