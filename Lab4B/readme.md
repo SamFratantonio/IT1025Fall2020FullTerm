@@ -35,7 +35,9 @@ Definitions to match:
 
 ## Network Hardware
 * Explain the benefit of a switch over a hub.
+    * Switches are much more efficient. With hubs only one device can use it at a time, but with switches multiple can. Switches also can store information such as MAC addresses which makes connecting with other devices on the network easier.
 * Explain the benefit of a router over hubs and switches.
+    * Simply put, routers form wireless connections with the devices on the network. This gives it a much larger range and makes everything easier as the devices can be set up in virtually whatever way you want. 
 
 ## Network Topology
 * Explain: Single point of failure and the topologies that experience this issue.
