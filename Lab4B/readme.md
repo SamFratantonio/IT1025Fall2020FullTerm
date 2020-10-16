@@ -1,5 +1,5 @@
 # Executive Summary
-Explain the goal for this lab
+The goal of this lab is to learn how to make flowcharts in lucidchart as well as understand the basics of network architecture/topology and what the applications of the different types are.
 
 # LucidChart
 
@@ -41,7 +41,10 @@ Definitions to match:
 
 ## Network Topology
 * Explain: Single point of failure and the topologies that experience this issue.
+   * It is when an issue in a single device causes the network itself to fail. An example of this is in the star topology if the central switch/hub were to fail. 
 * Compare the Infrastructure Topology and Wireless Mesh. Which do you think is better and why?
+   * I believe infrastructure topology is better because it allows for more flexibility and is less expensive. For example, in a wireless P2P network it's almost impossible for the whole network to fail. That and it is less expensive. 
 
 # Conclusion
-Summarize how this lab was useful to you and what you learnt that really interested you!
+This lab was useful cause I was never aware of lucidchart but it is a great tool for this kind of thing, if I need to make charts in the future it's a good option. 
+One thing I found interesting is the different network topologies from before we had wireless routers. It's interesting to think about a network with like ring topology and how hard that would be to work with.
