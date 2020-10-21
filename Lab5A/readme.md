@@ -4,8 +4,9 @@ Explain the goal for this lab
 # Cybersecurity and Encryption
 
 * Imagine you are part of the Amazon.com online chat. Explain how each component of the security triad would impact your job
-    * You'd have to make sure all of the accounts are password protected and the architecture behind it has no weaknesses, you'd also have to limit access to the servers that house everything, as all of the data is on there. Not only would you have to make sure everything is secure to
+    * You'd have to make sure all of the accounts are password protected and the architecture behind it has no weaknesses, you'd also have to limit access to the servers that house everything, as all of the data is on there. Not only would you have to make sure everything is secure, you'd also have to do routine checks to make sure there have been no breaches. It would be a good idea to require the users to use a complex password.
 * Identify three daily tasks that require authentication. Explain how each one could be converted to multi-factor authentication
+   * Unlocking my phone, 
 * Explain ACL and RBAC. What are the advantages and disadvantages of each?
 * Explain the interaction of ciphertext, a public key and a private key
 * Explain why we need public key cryptography.
