@@ -4,6 +4,7 @@ Explain the goal for this lab
 # Cybersecurity and Encryption
 
 * Imagine you are part of the Amazon.com online chat. Explain how each component of the security triad would impact your job
+    * You'd have to make sure all of the accounts are password protected and the architecture behind it has no weaknesses, you'd also have to limit access to the servers that house everything, as all of the data is on there. Not only would you have to make sure everything is secure to
 * Identify three daily tasks that require authentication. Explain how each one could be converted to multi-factor authentication
 * Explain ACL and RBAC. What are the advantages and disadvantages of each?
 * Explain the interaction of ciphertext, a public key and a private key
@@ -22,6 +23,7 @@ Explain the result.
 
 ## Brute Force
 * What is Brute-Force and how does it relate to Kerckhoffs's principle?
+    * A brute force attack is when you try every possible combination for a password until one of them works, in cryptography this would mean trying every possible key until one of them decrypts it successfully. Brute force attacks are not practical and take a long time, if the key is long enough it will literally take centuries to try all of them. This is where Kerckhoffs's principle comes in, the principle states that a system should be secure even if every aspect of how it works is public knowledge. This implies that the algorithm should be mathematically sound and impossible reverse engineer. If a system had a constant key then it could be reverse engineered to decrypt anything, this is why asymmetric encryption is better.
 
 # Conclusion
 Summarize how this lab was useful to you and what you learnt that really interested you!
