@@ -8,9 +8,9 @@ Explain the goal for this lab
 * Identify three daily tasks that require authentication. Explain how each one could be converted to multi-factor authentication
    * Unlocking my phone: It could require a password as well as a fingerprint
    
-   Clocking in at work: Also, require a password and the biometrics, instead of one or the other
+   * Clocking in at work: Also, require a password and the biometrics, instead of one or the other
    
-   Using credit card: Should always require a PIN and your name.
+   * Using credit card: Should always require a PIN and your name.
    
 * Explain ACL and RBAC. What are the advantages and disadvantages of each?
 * Explain the interaction of ciphertext, a public key and a private key
