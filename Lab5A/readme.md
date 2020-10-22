@@ -1,5 +1,5 @@
 # Executive Summary
-The goal of this lab is to understand the basics of cryptography and the different types of encryption algorithms and how they work, as well as what they are/aren't good for.
+The goal of this lab is to understand the basics of cryptography and the different types of encryption algorithms and how they work, as well as what they are/aren't good for and how they can be applied to cybersecurity.
 
 # Cybersecurity and Encryption
 
