@@ -16,7 +16,7 @@ Explain the goal for this lab
    * RBAC is where you have a list of roles and each role has certain permissions, ACL is where each user is specific and has their own set of permissions.
    RBAC is easier for larger systems but ACL is more specific and in some ways more secure.
 * Explain the interaction of ciphertext, a public key and a private key
-   A public key and a private key are linked in such a way that anything encrypted with the public key and only be decrypted with the private key and vice versa. 
+   * A public key and a private key are linked in such a way that anything encrypted with the public key and only be decrypted with the private key and vice versa. 
    This is useful so you can share your public key and keep your private key secret. 
 * Explain why we need public key cryptography.
    * So people don't need to create a new algorithm every time they want to encrypt something and have it be secure.
