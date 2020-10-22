@@ -41,3 +41,4 @@ Explain the result.
 
 # Conclusion
 Summarize how this lab was useful to you and what you learnt that really interested you!
+I found the part on cryptography to be quite interesting and useful because understanding these concepts is essential in today's world if you're going to be a programmer as the applications you'll be making need to be secure, especially if it involves two users communicating over it. 
