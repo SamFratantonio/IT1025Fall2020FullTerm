@@ -13,6 +13,8 @@ Explain the goal for this lab
    * Using credit card: Should always require a PIN and your name.
    
 * Explain ACL and RBAC. What are the advantages and disadvantages of each?
+   * RBAC is where you have a list of roles and each role has certain permissions, ACL is where each user is specific and has their own set of permissions.
+   RBAC is easier for larger systems but ACL is more specific and in some ways more secure.
 * Explain the interaction of ciphertext, a public key and a private key
 * Explain why we need public key cryptography.
 
