@@ -23,7 +23,7 @@ Explain the goal for this lab
 
 ## Cryptography
 * Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message.
-Then explain the encryption here:
+Then explain the encryption here: Turning the wheel changes the letter each "original" letter corresponds  with, so turning it once would make A = B, B = C, etc.
 
 * Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the result.
 b) Would it be different for different languages?
