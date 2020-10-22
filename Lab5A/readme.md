@@ -26,7 +26,8 @@ Explain the goal for this lab
 Then explain the encryption here: Turning the wheel changes the letter each "original" letter corresponds  with, so turning it once would make A = B, B = C, etc.
 
 * Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the result.
-b) Would it be different for different languages?
+b) Would it be different for different languages? 
+   * It shows a graph of how many times each letter was typed, it would most likely be different for other languages, especially those that are not based on latin.
 
 * What is a "Polyalphabetic cipher?"
 Type a message in the "Polyalphabetic Exploration" box as well as a shift word.
