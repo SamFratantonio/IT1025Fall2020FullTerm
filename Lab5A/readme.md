@@ -32,6 +32,7 @@ b) Would it be different for different languages?
 * What is a "Polyalphabetic cipher?"
 Type a message in the "Polyalphabetic Exploration" box as well as a shift word.
 Explain the result.
+   * It converts the letters to numbers based on their position in the alphabet, then it adds each number from the corresponding number in the shift word, to decrypt it you do the opposite and subtract it to get the original. 
 
 ## Brute Force
 * What is Brute-Force and how does it relate to Kerckhoffs's principle?
