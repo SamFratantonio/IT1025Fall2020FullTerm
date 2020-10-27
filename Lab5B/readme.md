@@ -14,7 +14,9 @@ Include your executive summary here...
 
 #### Review the first article and answer these questions:
 * What is the responsibility of TCP/IP? 
+  * To send packets over a network from one device to another.
 * Explain how the client-server model applies to TCP/IP. 
+  * The way TCP works is one device initiates a connection and the target recieves it. In this way the device that initiates would be the client and the one that listens for/accepts TCP sockets would be the server.
 
 #### Review the second article and answer these questions:
 Review the section of the article aligning the post office with protocol stacks.  
