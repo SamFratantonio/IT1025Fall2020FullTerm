@@ -5,9 +5,10 @@ Include your executive summary here...
 
 ## Internet Protocol
 * What is an IP address and what is the difference between IPv4 and IPv6? 
+  * An IP address is a unique identifier assigned to each device on a computer network. IPV4 uses 32 bit addresses and IPV6 uses 128. This means IPV6 has much more possible addresses and it is highly unlikely we'll run out, as we have with IPV4 before.
 * Find the IP address of your computer by typing ipconfig at the command prompt (refer back to the "Operating Systems" module for details.) 
   Take a screenshot of the command without including the IP address to show your success, name the file ipconfig and upload to the lab folder on GitHub. 
-* What is ICANN and how do they contribute to the global Internet? 
+* What is ICANN and how do they contribute to the global Internet? They help keep a standard in the DNS and make sure everything is done smoothly, they also help with other identification protocols in the architecture of the internet.
 
 ## TCP/IP
 
