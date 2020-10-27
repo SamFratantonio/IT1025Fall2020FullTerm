@@ -21,11 +21,14 @@ Include your executive summary here...
 #### Review the second article and answer these questions:
 Review the section of the article aligning the post office with protocol stacks.  
 * Why are layers important to changing technology? 
+  * Because when it's in layers and everything is organized from top to bottom, meaning everything is fundamentally built on top of everything below it, it makes it easier to change things without changing literally everything. 
 * What types of applications run on the "application" layer?
+   * The ones that the user actually interacts with. For example HTTP is an application layer protocol whereas TCP is a transport layer protocol. So they are not on the same level so to speak, HTTP uses TCP. Your browser that you're using to read this is on the application layer of things. 
 
 # Internet Security
 #### Watch the video and answer these questions:
 * What is HTTP and how does it support the client-server model? 
+   * HTTP means hypertext transfer protocol. It is the application layer protocol used by websites/browsers, the browser is the client and the web server is the server. 
 * Explain the protocols that secure HTTP uses to protect data.  
 
 #### Review the following article: Securing Your Web Browser 
