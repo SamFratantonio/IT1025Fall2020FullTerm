@@ -1,6 +1,5 @@
 # Executive Summary
-Include your executive summary here...
-
+The goal of this lab is to learn about different networking protocols and how they apply to programming and cyber security. 
 # Internet Architecture
 
 ## Internet Protocol
@@ -30,10 +29,14 @@ Review the section of the article aligning the post office with protocol stacks.
 * What is HTTP and how does it support the client-server model? 
    * HTTP means hypertext transfer protocol. It is the application layer protocol used by websites/browsers, the browser is the client and the web server is the server. 
 * Explain the protocols that secure HTTP uses to protect data.  
+   * HTTPS encrypts the data and uses SSL which makes it harder to intercept. 
 
 #### Review the following article: Securing Your Web Browser 
 * Why should you secure your browser? 
+   * To protect your privacy because a large amount of information can be found on your browser alone. Especially since browsers are so customizable and serve such a general purpose that security vulnerabilities are going to happen, especially if you use 3rd party software like browser extensions. 
 * Explain one of the risks described in the article. 
+  * The fact that websites leave cookies on your browser, cookies are files left by websites to save certain data, said cookies could be picked up by any other website if the proper measures are not taken, which could be a problem if that cookie is a username and password, as they often are.
  
 # Conclusion
 Include your conclusion here...
+This lab was helpful in explaining how different networking protocols work as well as how to use certain ones to make things more secure.
