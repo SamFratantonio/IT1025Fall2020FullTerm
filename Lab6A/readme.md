@@ -1,5 +1,6 @@
 # Executive Summary
-In this lab I learned about codes of ethics and how they are
+In this lab I learned about codes of ethics and how they are used in business/organizations in general, as well as intellectual property laws. 
+I also learned about URL file paths.
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
 * Explain the purpose of a "code of ethics" and why the ACM created a code for the computing discipline.
@@ -14,6 +15,7 @@ In this lab I learned about codes of ethics and how they are
 * From the chapter follow the link to the WIPO.  What is the purpose and importance of the WIPO? 
   * They are essentially the patent office for intellectual property, they are the backbone of IT based business because they allow people to claim their own ideas and have them not be stolen. 
 * Using links in the chapter explain how a copyright is obtained and the benefit of registering for a copyright with the US Copyright Office. Explain why it might be important to copyright the svg image you created. 
+    * You get a copyright by submitting your work to them, you cannot copyright an idea itself, you can only copyright an expression of an idea, such as a book or a song or piece of art you created. This finite definition allows the laws to be enforced since there is one thing that you have the rights to. The benefit of this is that you can sell your work or use it in some official capacity without others taking credit for it. If I were to actually use the SVG image as the logo for a business, I'd need to copyright it so others can't use the brand name for themselves. 
 * If the svg image you created became an item that identifies a source of goods or services, explain the role of a trademark in defining the intellectual property. 
  
 ## Information Collection
