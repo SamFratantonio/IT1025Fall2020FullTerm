@@ -49,6 +49,7 @@ Definitions/examples: .edu, no file path provided, result of search, https, www.
     Relative Path (From desktop): photos\photo.png
 
 * Explain the purpose and use of file compression.
+    * It's used to make files smaller, it has multiple different uses. Sometimes the files are compressed to be downloaded/uploaded faster or sometimes it's compressed "permanently" like in a JPG format. It's used to save memory.
 
 # Conclusion
 In this lab I learned about codes of ethics and how they are used in business/organizations in general, as well as intellectual property laws. 
