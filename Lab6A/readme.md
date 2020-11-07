@@ -4,7 +4,9 @@ Include your executive summary here..
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
 * Explain the purpose of a "code of ethics" and why the ACM created a code for the computing discipline.
+   * A code of ethics is a set of rules that demonstrate what is and isn't considered morally acceptable by an organization. The ACM created their code of ethics as a baseline for others to follow in the industry. 
 * Explain the difference between a code of ethics and AUP (acceptable use policies.) 
+   * A code of ethics is broader and encompasses your actual behavior whereas an acceptable use policy simply states what you can and cannot use a specific thing for (in this case, software). 
 * Pick a site of your choice and read the AUP.  Select a policy of interest and report your findings (include a link to the site in your report.) 
 
 ## Intellectual Property
