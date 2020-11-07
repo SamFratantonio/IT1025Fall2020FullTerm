@@ -41,8 +41,11 @@ Definitions/examples: .edu, no file path provided, result of search, https, www.
 | Anchor | Specific Location On Page |
 
 * What is your understanding of difference between Absolute and Relative File Paths. What would you use in your website? Why?
-    * Absolute file paths are written as the entire path, so the base directory and everything all the way down. Relative file paths are written based on the current working directory. For example:
+    * Absolute file paths are written as the entire path, so the base directory and everything all the way down. Relative file paths are written based on the current working directory. 
+    For example:
+    
     Absolute Path: C:\users\username\desktop\photos\photo.jpg
+    
     Relative Path (From desktop): photos\photo.png
 
 * Explain the purpose and use of file compression.
