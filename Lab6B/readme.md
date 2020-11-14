@@ -16,7 +16,7 @@ The point of this lab is to learn the basics of web development, specifically th
 
 * What is the advantage of JSON over XML?
     * JSON is shorter
-JSON is quicker to read and write
-JSON can use arrays
-JSON doesn't need a parser, it's part of Javascript. 
+    * JSON is quicker to read and write
+    * JSON can use arrays
+    * JSON doesn't need a parser, it's part of Javascript. 
 # Conclusion
