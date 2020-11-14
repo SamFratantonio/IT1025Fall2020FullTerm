@@ -1,0 +1,3 @@
+{
+"student":{"firstname":"John", "lastname":"Smith", "age":17, "school":"Tri-C", "address":"123 Main St", "address1":"Whatever", "city":"Cleveland", "zip":44123, "gpa":3.0}
+}
