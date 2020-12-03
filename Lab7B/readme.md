@@ -16,6 +16,7 @@ c) Employee
 * What did you find most useful about doing this project? What did you learn?
 * What was the hardest part of doing this project?
 * If a team member did not co-operate or had a different idea than yours, explain how you worked with that team member.
+    * Everyone cooperated nicely, everything's working out. 
 
 # Conclusion
 Include what you have learnt from this lab
