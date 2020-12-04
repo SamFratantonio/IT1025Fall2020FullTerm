@@ -1,6 +1,5 @@
 # Executive Summary
-Talk about what the goal of this lab is !
-
+The goal of this lab is to understand the concept behind object oriented programming, specifically how objects/classes are used. This lab also covers the research project.
 # Object Oriented Programming
 * Create a class (using paper and pencil or using the Microsoft whiteboard app) for the following:
 a) Phone
