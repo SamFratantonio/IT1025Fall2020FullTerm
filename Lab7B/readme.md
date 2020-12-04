@@ -16,8 +16,9 @@ c) Employee
    * I found all of the sources by searching on google scholar, this way it's safe to assume they're all reliable. 
    Sources you should avoid are ones written by random people that aren't fact checked.
 * What did you find most useful about doing this project? What did you learn?
-  * I learned 
+  * I learned about IOT devices and how they are being used, as well as the basics behind how they work and what the security flaws with them are.
 * What was the hardest part of doing this project?
+  * Finding good sources and figuring out which information to include in the presentation.
 * If a team member did not co-operate or had a different idea than yours, explain how you worked with that team member.
     * Everyone cooperated nicely, everything's working out. 
 
