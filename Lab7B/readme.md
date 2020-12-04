@@ -13,6 +13,8 @@ c) Employee
 # Research Project
 * Explain in 2 lines about your research project. Then answer each of the below questions.
 * How did you find your sources? What are sources that you should avoid when doing good research?
+   * I found all of the sources by searching on google scholar, this way it's safe to assume they're all reliable. 
+   Sources you should avoid are ones written by random people that aren't fact checked.
 * What did you find most useful about doing this project? What did you learn?
 * What was the hardest part of doing this project?
 * If a team member did not co-operate or had a different idea than yours, explain how you worked with that team member.
