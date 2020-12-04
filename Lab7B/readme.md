@@ -12,6 +12,7 @@ c) Employee
 
 # Research Project
 * Explain in 2 lines about your research project. Then answer each of the below questions.
+   * The subject of the research project is the internet of things. This refers to devices that have been computerized that are not computers themselves, such as smart thermostats, wifi enabled security cameras and even refridgerators for some reason. 
 * How did you find your sources? What are sources that you should avoid when doing good research?
    * I found all of the sources by searching on google scholar, this way it's safe to assume they're all reliable. 
    Sources you should avoid are ones written by random people that aren't fact checked.
