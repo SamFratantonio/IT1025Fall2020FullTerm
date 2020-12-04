@@ -23,4 +23,5 @@ c) Employee
     * Everyone cooperated nicely, everything's working out. 
 
 # Conclusion
-Include what you have learnt from this lab
+I learned about the concepts behind the "objects" in object oriented programming, and how the classes are used as these objects. 
+I also learned more about the internet of things while doing the research project. 
